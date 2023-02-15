@@ -1,2 +1,2 @@
 # elacticsearch-terraform
-For installing ElasticSearch with Terraform script to confure it for securely
+For installing ElasticSearch with Terraform script to configuring it for securely
